@@ -35,7 +35,7 @@ Example
 
 Given a text file containing the line `comboBox_test`, the following code would be generated:
 
-```
+```python
 #####################
 # views\MainView.py #
 #####################
