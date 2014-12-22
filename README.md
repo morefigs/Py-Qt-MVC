@@ -33,7 +33,7 @@ where `widget_names.txt` is a text file containing a widget name on each line, a
 Example
 -------
 
-Given a text file containing the line `comboBox_test`, the following code would be generated:
+Given a text file containing the widget name of `comboBox_test`, the following code would be generated:
 
 ```python
 #####################
