@@ -1,7 +1,7 @@
 Py-Qt-MVC
 ========
 
-A simple script for auto-generating Model-View-Controller Python template files for PyQt or PySide.
+Script for auto-generating Model-View-Controller application template files for PyQt or PySide.
 
 Manually creating model, view, controller, and application Python files can be tedious, repetitive, and error prone when dealing with a large number of widgets. This script auto-generates templates of these files based on an input file containing a list of widgets names. It generates code for the following classes:
 - View class
