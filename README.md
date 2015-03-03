@@ -23,6 +23,8 @@ Manually creating model, view, controller, and application Python files can be t
 - Application class
  - instantiation of model, view, and controller classes
 
+See also this Stack Overflow post: http://stackoverflow.com/a/26699122/1470749
+
 Usage
 -----
 
